@@ -4,5 +4,5 @@ numpy
 beautifulsoup4
 scikit-learn
 nltk
-selenium
 requests
+unidecode

@@ -10,9 +10,9 @@ You'll need Python 3 on your machine, together with your package manager of choi
 
 1. *Clone this repository*
 
-If you have git installed on your machine, you can do this by navigating to the place you'd like to download this code to and running ```git clone XXX``` in your terminal.
+If you have git installed on your machine, you can do this by navigating to the place you'd like to download this code to and running ```git clone https://github.com/datamimi/pydays19.git``` in your terminal.
 
-If you don't have git, you can hit 'download zip' instead and extract the files to a convenient location.
+If you don't have git, you can hit 'Clone or Download' and then 'Download ZIP' instead and extract the files to a convenient location.
 
 2. *Set up a virtual environment*
 
